@@ -6,7 +6,14 @@ nav.navbar.navbar-fixed-top.navbar-color-on-scroll.navbar-transparent a {
     font-family: "Aspire";
     src: url('../fonts/Aspire-DemiBold.ttf') format("truetype");
 }
-
+.card-signup-top{
+    margin: 160px 0px 0px 0px;
+}
+.servicetable{
+    width: 60% !important;
+    text-align: center;
+    margin: 0 auto;
+}
 .marginTop40 {
     margin-top: 40px;
 }
